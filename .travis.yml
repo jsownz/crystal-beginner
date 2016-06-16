@@ -1,1 +1,5 @@
 language: crystal
+
+notifications:
+  email: false
+  slack: frozensoliddesigns:BfEJJxL3DKHjppVGPnGiyB3t
